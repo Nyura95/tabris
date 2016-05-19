@@ -4,7 +4,7 @@ var page = new tabris.Page({
 });
 
 var button = new tabris.Button({
-  text: "Native Widgets",
+  text: "Native Widget",
   layoutData: {centerX: 0, top: 100}
 }).appendTo(page);
 
